@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/shopware/5.3/engine/Shopware/Components/Plugin/schema/config.xsd">
+    <elements>
+        <element type="text" scope="locale">
+            <name>optionListSizeTrigger</name>
+            <label lang="de">Anzahl Filteroptionen:</label>
+            <label lang="en">Number of filter options:</label>
+            <value>10</value>
+            <description lang="de">Überschreitet die Anzahl der Filteroptionen diese Einstellung, wird die Suche aktiviert.</description>
+            <description lang="en">If the number of filter options is bigger than this configuration the search will be visible.</description>
+        </element>
+    </elements>
+</config>

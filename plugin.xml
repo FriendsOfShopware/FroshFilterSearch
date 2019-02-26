@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="../../../engine/Shopware/Components/Plugin/schema/plugin.xsd">
+    <label lang="de">Filter Suche</label>
+    <label lang="en">Filter search</label>
+
+    <version>1.0.0</version>
+    <copyright>Friends of Shopware</copyright>
+    <link>https://friendsofshopware.github.io/</link>
+    <author>Friends of Shopware</author>
+    <compatibility minVersion="5.2.0"/>
+
+    <description lang="de">Suche für die Filter Optionen</description>
+    <description lang="en">Search for filter options</description>
+
+    <changelog version="1.0.0">
+        <changes lang="de">Veröffentlichung</changes>
+        <changes lang="en">Release</changes>
+    </changelog>
+</plugin>
